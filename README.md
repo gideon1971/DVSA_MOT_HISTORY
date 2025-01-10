@@ -5,8 +5,7 @@ MOT is in fact a legacy abbreviation for Ministry of Transport.
 
 the data is extracted using a free API.
 
-The MOT is an annual inspection for vehicles over 3 years ols to deem them road worthy or not and passing the is a legal requirement.
-
+The MOT is an annual inspection for vehicles over 3 years old to deem them road worthy and passing is a legal requirement to drivwe on UK roads.
 The API supplies the same information that is found by using this web form https://www.check-mot.service.gov.uk/
 
 
